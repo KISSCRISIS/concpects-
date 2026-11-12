@@ -1,0 +1,780 @@
+Exam Traps & High-Yield Points
+219  source records
+
+
+الملف يحتوي **415 سجلًا**، لكن فيه تكرار كثير. سأعرض لك **النسخة المنقّحة بدون المكرر**، مع بقاء النقطة والشرح الأصلي المختصر أسفلها، ثم **سطر عربي مبسط واحد** لكل نقطة.
+
+---
+
+**1) EMTALA and Interfacility Transfer Liability** — TRP_0001  
+EN: Liability does NOT transfer to the receiving physician immediately upon acceptance of the transfer call.  
+AR: قبول التحويل لا ينقل المسؤولية فورًا للطبيب المستقبِل.
+
+**2) Blast Injury Pathophysiology** — TRP_0002  
+EN: A normal-appearing eardrum does not rule out serious internal lung or bowel blast injury.  
+AR: طبلة الأذن الطبيعية لا تنفي إصابة رئوية أو معوية خطيرة بعد الانفجار.
+
+**3) TIMI Risk Score** — TRP_0003  
+EN: “Patient History” is NOT a TIMI component, but IS a HEART score component.  
+AR: التاريخ المرضي ليس ضمن TIMI، لكنه ضمن HEART.
+
+**4) Klebsiella Pneumonia** — TRP_0004  
+EN: Abscess or bulging fissure in an alcoholic patient strongly points to Klebsiella.  
+AR: خراج أو شق متبجح عند مريض كحولي يرجّح بشدة الكليبسيلا.
+
+**5) Pediatric Airway Sizing** — TRP_0005  
+EN: Modern AHA/AAP guidelines support cuffed tubes to prevent leak and improve ventilation accuracy.  
+AR: الأنابيب ذات الكفة مدعومة حديثًا عند الأطفال لمنع التسريب ودقة التهوية.
+
+**6) Pediatric Head Trauma Rules (PECARN)** — TRP_0006  
+EN: Frontal hematomas in children <2 years are NOT high-risk; non-frontal ones are concerning.  
+AR: الورم الدموي الجبهي ليس عالي الخطورة تحت السنتين، بل غير الجبهي.
+
+**7) Disseminated Gonococcal Infection (DGI)** — TRP_0007  
+EN: Look for acral distribution and sexual history; do not confuse with simple cellulitis.  
+AR: وزّع الآفات على الأطراف واسأل عن التاريخ الجنسي؛ ليست مجرد سلوليت.
+
+**8) Toxic Shock Syndrome (TSS)** — TRP_0008  
+EN: Staph TSS rash is typically painless; severe pain suggests Strep TSS/necrotizing fasciitis.  
+AR: طفح العنقودي غالبًا غير مؤلم؛ الألم الشديد يرجّح العقدي/التهاب اللفافة الناخر.
+
+**9) Tetanus Management** — TRP_0009  
+EN: Never debride a suspected tetanus wound before giving TIG.  
+AR: لا تنضّر جرح الكزاز المشتبه قبل إعطاء الغلوبيولين المناعي TIG.
+
+**10) Idiopathic Intracranial Hypertension** — TRP_0010  
+EN: Untreated, the most serious sequela is permanent vision loss.  
+AR: أخطر مضاعفة إذا تُركت هي فقدان البصر الدائم.
+
+**11) Status Epilepticus** — TRP_0011  
+EN: Do NOT wait 30 minutes; start aggressive treatment at 5 minutes.  
+AR: لا تنتظر 30 دقيقة؛ ابدأ العلاج المكثف عند 5 دقائق.
+
+**12) Caustic Ingestions** — TRP_0012  
+EN: NEVER neutralize a caustic with water or weak acid/base; exothermic reaction causes burns.  
+AR: لا تحاول معادلة المادة الكاوية؛ التفاعل الناشر للحرارة يسبب حروقًا.
+
+**13) Methemoglobinemia** — TRP_0013  
+EN: Supplemental oxygen is ineffective because hemoglobin cannot release oxygen to tissues.  
+AR: الأكسجين الإضافي غير فعال لأن الهيموغلوبين لا يحرر الأكسجين للأنسجة.
+
+**14) Frostbite Management** — TRP_0014  
+EN: Do NOT debride frostbite in the ED; you may remove tissue that could survive.  
+AR: لا تنضّر عضة الصقيع في الطوارئ؛ قد تزيل نسيجًا كان سينجو.
+
+**15) Carbon Monoxide Poisoning** — TRP_0015  
+EN: Standard pulse oximetry cannot distinguish oxyhemoglobin from carboxyhemoglobin.  
+AR: مقياس النبض التقليدي لا يفرّق بين الأوكسي وكربوكسي الهيموغلوبين.
+
+**16) DKA Management** — TRP_0016  
+EN: Never start insulin if K <3.3 mEq/L; replace potassium first.  
+AR: لا تبدأ الأنسولين إذا كان البوتاسيوم أقل من 3.3؛ عالج البوتاسيوم أولًا.
+
+**17) Adrenal Crisis** — TRP_0017  
+EN: Do NOT wait for cosyntropin stimulation testing in a crashing patient.  
+AR: لا تنتظر اختبار الكوزينتروبين في المريض المنهار؛ عالج بالستيرويد تجريبيًا.
+
+**18) Immune Thrombocytopenia Purpura (ITP)** — TRP_0018  
+EN: Avoid NSAIDs and aspirin because they further impair platelet function.  
+AR: تجنّب مضادات الالتهاب غير الستيرويدية والأسبرين لأنها تزيد خلل الصفائح.
+
+**19) Retinal Detachment** — TRP_0019  
+EN: Do NOT confuse with vitreous hemorrhage; retina is a distinct tethered membrane on US.  
+AR: لا تخلطها بنزف الزجاجية؛ الشبكية غشاء واضح ومثبت في الموجات فوق الصوتية.
+
+**20) Tracheoinnominate Artery Fistula** — TRP_0020  
+EN: Any trach bleed may be a sentinel bleed from a fistula.  
+AR: أي نزف بعد فتحة الرغامى قد يكون نزفًا إنذاريًا لناسور شرياني.
+
+**21) Erythema Multiforme and SJS/TEN** — TRP_0021  
+EN: Nikolsky sign is positive in SJS/TEN but negative in bullous pemphigoid.  
+AR: علامة نيكولسكي إيجابية في SJS/TEN وسلبية في الفقاع الشوهي.
+
+**22) Pregnancy in Trauma** — TRP_0022  
+EN: A negative ultrasound does NOT rule out placental abruption.  
+AR: الموجات السلبية لا تنفي انفصال المشيمة؛ التشخيص سريري ومراقبة CTG.
+
+**23) NEXUS Rules for Chest Imaging** — TRP_0023  
+EN: NEXUS chest rules CANNOT be applied if the patient is over 60.  
+AR: لا تطبّق قواعد NEXUS للصدر إذا كان العمر فوق 60.
+
+**24) Ottawa Knee Rules** — TRP_0024  
+EN: Do NOT apply to non-traumatic knee pain or chronic injuries.  
+AR: لا تطبّق قواعد أوتاوا على ألم الركبة غير الرضحي أو المزمن.
+
+**25) Compartment Syndrome** — TRP_0025  
+EN: A normal pulse does NOT rule out compartment syndrome.  
+AR: النبض الطبيعي لا ينفي متلازمة الحيّز.
+
+**26) Sciatica and HNP** — TRP_0026  
+EN: Avoid emergent MRI for simple sciatica unless cauda equina signs are present.  
+AR: لا تطلب MRI إسعافيًا لعرق النسا البسيط إلا بعلامات ذيل الفرس.
+
+**27) Psoas Abscess** — TRP_0027  
+EN: Look for systemic toxicity and pain on hip extension; do not confuse with hip arthritis.  
+AR: ابحث عن تسمم جهازي وألم عند بسط الورك؛ ليس مجرد التهاب مفصل الورك.
+
+**28) Septic Arthritis in Immunocompromised** — TRP_0028  
+EN: Do NOT rule out septic arthritis just because crystals are present or WBC is only 20,000.  
+AR: وجود البلورات أو WBC 20 ألف لا ينفي التهاب المفصل الإنتاني عند المناعيين.
+
+**29) Suicide Risk Assessment** — TRP_0029  
+EN: Asking about suicide does NOT plant the idea; direct questioning is essential and safe.  
+AR: السؤال المباشر عن الانتحار آمن وضروري ولا يزرع الفكرة.
+
+**30) Acute Dystonic Reactions** — TRP_0030  
+EN: Do NOT mistake dystonia for seizure/tetanus; check recent meds/antiemetics.  
+AR: لا تخلط خلل التوتر بالصرع أو الكزاز؛ راجع الأدوية ومضادات القيء.
+
+**31) Eating Disorders (Bulimia)** — TRP_0031  
+EN: Normal BMI does NOT rule out a serious eating disorder.  
+AR: BMI الطبيعي لا ينفي اضطراب أكل خطير مثل الشره المرضي.
+
+**32) Intimate Partner Violence** — TRP_0032  
+EN: IPV occurs across all socioeconomic and educational levels.  
+AR: العنف الأسري يحدث في كل المستويات الاجتماعية والتعليمية.
+
+**33) Elder Abuse** — TRP_0033  
+EN: Pressure ulcers in immobilized patients are not always abuse but require investigation.  
+AR: تقرحات الضغط عند غير المتحرك ليست دائمًا إساءة لكنها تستدعي التحقيق.
+
+**34) Febrile IVDU and TB Isolation** — TRP_0034  
+EN: Do NOT delay negative-pressure isolation while waiting for CT/sputum in high-risk cavitary lesions.  
+AR: لا تؤخر العزل بالضغط السلبي بانتظار CT/البلغم عند كهفية عالية الخطورة.
+
+**35) Consent and Mature Minor Doctrine** — TRP_0035  
+EN: Religious beliefs of a patient with capacity must be respected, even if refusing life-saving treatment.  
+AR: تُحترم معتقدات المريض الكفء الدينية حتى عند رفض علاج منقذ للحياة.
+
+**36) Tactical Combat Casualty Care** — TRP_0036  
+EN: Do NOT start with airway under fire; secure area and stop massive hemorrhage first.  
+AR: لا تبدأ بالمجرى الهوائي تحت النيران؛ أمّن المكان وأوقف النزف الشديد أولًا.
+
+**37) Cardiac Tamponade POCUS** — TRP_0037  
+EN: Do NOT rely on effusion size alone; RV diastolic collapse indicates tamponade.  
+AR: لا تعتمد على حجم الانصباب فقط؛ انطمار البطين الأيمن بالانبساط يعني دكاكًا.
+
+**38) Pneumothorax POCUS (M-Mode)** — TRP_0038  
+EN: Lung point is most specific for PTX but may not be visible in large PTX.  
+AR: نقطة الرئة أكثر خصوصية للريح الصدري لكنها قد تغيب في الريح الكبير.
+
+**39) AAA POCUS** — TRP_0039  
+EN: Do NOT measure only the patent lumen; mural thrombus causes underestimation.  
+AR: لا تقِس التجويف المفتوح فقط؛ الخثرة الجدارية تجعلك تقلل الحجم.
+
+**40) Retinal Detachment POCUS** — TRP_0040  
+EN: Vitreous hemorrhage moves like swirling smoke and is not tethered to the nerve.  
+AR: نزف الزجاجية يتحرك كدخان دوّام ولا يلتصق بالعصب.
+
+**41) POCUS for Aortic Dissection Limitations** — TRP_0041  
+EN: Do NOT rely on US to clear suspicious chest pain; CTA or TEE is required.  
+AR: لا تعتمد على الإيكو لاستبعاد التسليخ؛ يلزم CTA أو TEE.
+
+**42) Scope and Principles of GEM** — TRP_0042  
+EN: Humanitarian and development work are distinct but must be integrated.  
+AR: العمل الإنساني والتنموي مختلفان لكن يجب دمجهما لاستدامة الصحة.
+
+**43) Geriatric ED Guidelines** — TRP_0043  
+EN: Central line technique is NOT part of geriatric-specific GED recommendations.  
+AR: تقنية الخط المركزي ليست ضمن توصيات قسم الطوارئ الخاصة بالمسنين.
+
+**44) GSW Documentation** — TRP_0044  
+EN: Speculating on bullet trajectory/caliber can discredit medical testimony.  
+AR: التخمين في مسار أو عيار الرصاصة قد يضعف شهادتك الطبية.
+
+**45) Interfacility Transport of STEMI** — TRP_0045  
+EN: Do NOT delay transport for stable STEMI to do secondary imaging or wait for labs.  
+AR: لا تؤخر نقل STEMI المستقر لتصوير ثانوي أو انتظار تحاليل.
+
+**46) SAVE Triage Guidelines** — TRP_0046  
+EN: SAVE is NOT for daily triage; it is for prolonged disaster resource allocation.  
+AR: SAVE ليس للفرز اليومي بل لتخصيص الموارد في الكوارث المطولة.
+
+**47) Lung-Protective Ventilation in ED** — TRP_0047  
+EN: Do NOT assume lung-protective strategies are only for ICU ARDS; start in ED.  
+AR: التهوية الواقية للرئة تبدأ في الطوارئ وليست حكرًا على ICU/ARDS.
+
+**48) Sepsis-3 Definitions** — TRP_0048  
+EN: Do NOT rely solely on SIRS criteria for Sepsis-3.  
+AR: لا تعتمد على معايير SIRS وحدها لتعريف الإنتان وفق Sepsis-3.
+
+**49) Cardiogenic Shock and Fluids** — TRP_0049  
+EN: Avoid fluid challenges if rales and pulmonary edema are present.  
+AR: تجنّب تحديات السوائل عند وجود خراخر ووذمة رئوية.
+
+**50) Balanced Crystalloids vs Normal Saline** — TRP_0050  
+EN: Avoid Normal Saline for massive resuscitation due to high chloride renal injury risk.  
+AR: تجنّب المحلول الملحي الطبيعي في الإنعاش الكبير لخطر الكلوريد على الكلى.
+
+**51) TTM and Prognosis** — TRP_0051  
+EN: Avoid prehospital cold saline for cooling; it increases pulmonary edema and rearrest risk.  
+AR: تجنّب المحلول البارد قبل المستشفى للتبريد؛ يزيد الوذمة الرئوية وتوقف القلب.
+
+**52) TTM and Prognosis** — TRP_0052  
+EN: Do NOT withdraw care early based on poor neuro exam in first 24–48 h.  
+AR: لا تسحب العلاج مبكرًا اعتمادًا على فحص عصبي سيئ خلال 24–48 ساعة.
+
+**53) Pain Transmission and Assessment** — TRP_0053  
+EN: Normal HR/BP does not mean no pain; nonverbal signs are unreliable.  
+AR: نبض وضغط طبيعيان لا يعنيان غياب الألم؛ العلامات غير اللفظية غير موثوقة.
+
+**54) Ketamine and Open Globe** — TRP_0054  
+EN: Ketamine in open globe injury may extrude intraocular contents.  
+AR: الكيتامين في إصابة العين المفتوحة قد يدفع محتويات العين للخارج.
+
+**55) Botulism vs Myasthenia Gravis** — TRP_0055  
+EN: Myasthenia lacks autonomic findings like dry mouth/bladder issues seen in botulism.  
+AR: الوهن العضلي يفتقد أعراضًا ذاتية كجفاف الفم/المثانة الموجودة في التسمم السجقي.
+
+**56) Methemoglobinemia Presentation** — TRP_0056  
+EN: Pulse oximetry often reads ~85% regardless of PaO2.  
+AR: مقياس النبض غالبًا يقرأ حوالي 85% بغض النظر عن PaO2.
+
+**57) Eclamptic Seizures** — TRP_0057  
+EN: Magnesium is first-line; not phenytoin or benzodiazepines.  
+AR: المغنيسيوم هو الخط الأول لتشنجات الإرجاج وليس الفينيتوين أو البنزوديازيبينات.
+
+**58) Tension Pneumothorax** — TRP_0058  
+EN: Do NOT wait for X-ray in unstable/hypotensive patients.  
+AR: لا تنتظر الأشعة في الريح الصدري التوترى عند مريض غير مستقر.
+
+**59) Gastric Outlet Obstruction** — TRP_0059  
+EN: Ask “time since last meal”; otherwise GOO may be mistaken for gastroenteritis.  
+AR: اسأل عن وقت آخر وجبة؛ وإلا قد تُخلط انسداد المخرج المعدي بالتهاب معوي.
+
+**60) Fecal Impaction and Diarrhea** — TRP_0060  
+EN: Do a rectal exam in elderly with watery diarrhea; impaction can present this way.  
+AR: افحص المستقيم عند مسن بإسهال مائي؛ قد يكون انحشارًا برازيًا.
+
+**61) Initial Evaluation of Vaginal Bleeding** — TRP_0061  
+EN: Confirm pregnancy before structural workup or hormonal therapy.  
+AR: أكّد الحمل قبل التصوير أو العلاج الهرموني لنزف المهبل.
+
+**62) Pediatric Trauma Physiology** — TRP_0062  
+EN: Stable BP does not exclude shock; tachycardia is a more reliable early sign.  
+AR: ضغط الدم المستقر لا ينفي الصدمة؛ تسرع القلب علامة مبكرة أدق.
+
+**63) Primary Survey Priorities** — TRP_0063  
+EN: AMPLE history is part of secondary survey, NOT primary survey.  
+AR: تاريخ AMPLE ضمن المسح الثانوي وليس الأولي.
+
+**64) Septal Hematoma** — TRP_0064  
+EN: Inspect internally after nasal trauma; hematoma may hide behind the columella.  
+AR: افحص داخل الأنف بعد الرضح؛ الورم الدموي قد يختفي خلف العمود الأنفي.
+
+**65) Penetrating Neck Trauma** — TRP_0065  
+EN: Use clinical “hard signs,” not only anatomical zones, to decide surgery.  
+AR: اعتمد على العلامات السريرية الصلبة لا على المنطقة التشريحية فقط لجراحة الرقبة.
+
+**66) Tension Pneumothorax in Intubated Patients** — TRP_0066  
+EN: It is a clinical diagnosis; do NOT wait for X-ray in hypotension.  
+AR: تشخيص سريري؛ لا تنتظر الأشعة عند انخفاض الضغط.
+
+**67) Unstable Pelvic Fracture and FAST** — TRP_0067  
+EN: Positive FAST in unstable patient goes to OR, not IR.  
+AR: FAST الموجب عند غير المستقر يعني غرفة العمليات وليس IR.
+
+**68) Urethral Injury Evaluation** — TRP_0068  
+EN: Do NOT blindly insert Foley with blood at meatus; may convert partial to full tear.  
+AR: لا تدخل قسطرة فولي عمياء مع دم بالفتحة؛ قد تحوّل التمزق الجزئي لكامل.
+
+**69) Seidel Test and Open Globe** — TRP_0069  
+EN: Do NOT perform tonometry if open globe is suspected.  
+AR: لا تقِس ضغط العين عند suspicion لفتح الكرة العينية.
+
+**70) Alveolar Osteitis (Dry Socket)** — TRP_0070  
+EN: Dry socket is inflammatory, not typically infection; oral antibiotics are not the treatment.  
+AR: السنخ الجاف التهاب موضعي وليس عدوى؛ المضادات ليست العلاج الأساسي.
+
+**71) Asthma-Related Death Risk** — TRP_0071  
+EN: Prior intubation is a risk even if no recent hospitalization.  
+AR: التنبيب السابق عامل خطورة حتى دون تنويم حديث.
+
+**72) Angiography After Cardiac Arrest (ROSC)** — TRP_0072  
+EN: Do NOT delay cath lab for ROSC-STEMI because patient is comatose.  
+AR: لا تؤخر القسطرة بعد ROSC-STEMI بسبب الغيبوبة.
+
+**73) Aortic Dissection Medical Management** — TRP_0073  
+EN: Vasodilator alone can cause reflex tachycardia and increase shear stress.  
+AR: موسع الأوعية وحده يسبب تسرعًا انعكاسيًا ويزيد إجهاد الصفيحة.
+
+**74) Esophageal Perforation Imaging** — TRP_0074  
+EN: Do NOT start with barium in unstable/high-suspicion patients.  
+AR: لا تبدأ بالباريوم عند غير المستقر أو عالي الشك في انثقاب المريء.
+
+**75) Small Bowel Obstruction** — TRP_0075  
+EN: SBO can occur without prior surgery; check incarcerated hernias.  
+AR: الانسداد المعوي قد يحدث دون جراحة سابقة؛ افحص الفتق المحتبس.
+
+**76) Mesenteric Ischemia** — TRP_0076  
+EN: Do NOT wait for elevated lactate or peritoneal signs before CTA.  
+AR: لا تنتظر ارتفاع اللاكتات أو علامات البريتوان قبل CTA لنقص التروية المساريقي.
+
+**77) Ovarian Torsion** — TRP_0077  
+EN: “Normal Doppler flow” does not rule out torsion in classic symptoms.  
+AR: دوبلر طبيعي لا ينفي التواء المبيض مع أعراض نموذجية.
+
+**78) MS and Optic Neuritis** — TRP_0078  
+EN: Do NOT mistake MS/optic neuritis for migraine; focal deficits and eye pain are red flags.  
+AR: لا تخلط التصلب/التهاب العصب البصري بالشقيقة؛ العيوب البؤرية وألم العين إنذار.
+
+**79) Peripheral Neuropathy Patterns** — TRP_0079  
+EN: Not all symmetric neuropathy is GBS; check stocking-glove metabolic causes.  
+AR: ليس كل اعتلال متماثل غيلان-باريه؛ ابحث عن نمط القفاز والجورب الأيضي.
+
+**80) Dermatomyositis** — TRP_0080  
+EN: Fasciculations suggest motor neuron disease, not dermatomyositis.  
+AR: الرجفان العضلي يرجّح مرض العصبون المحرك لا التهاب الجلد والعضلات.
+
+**81) Septic Arthritis vs Gout** — TRP_0081  
+EN: Crystals do not rule out infection; send joint fluid for culture.  
+AR: البلورات لا تنفي العدوى؛ أرسل سائل المفصل للزرع.
+
+**82) ACE-Inhibitor Angioedema** — TRP_0082  
+EN: Do NOT waste time on anaphylaxis meds if stridor; proceed to intubation.  
+AR: لا تضيع الوقت بأدوية التأق عند الصرير؛ انتقل للتنبيب.
+
+**83) MTP Ratios** — TRP_0083  
+EN: Type O is for RBCs; AB is for plasma.  
+AR: الدم O لكريات الدم الحمراء، وAB للبلازما.
+
+**84) Warfarin Reversal** — TRP_0084  
+EN: Vitamin K alone takes 6–12 h; not enough for active intracranial bleed.  
+AR: فيتامين K وحده يستغرق 6–12 ساعة ولا يكفي لنزف دماغي نشط.
+
+**85) Febrile Neutropenia** — TRP_0085  
+EN: Do NOT wait for ANC before antibiotics in suspected neutropenic sepsis.  
+AR: لا تنتظر ANC قبل المضادات في إنتان مع احتمال قلة العدلات.
+
+**86) Metabolic Acidosis Priority** — TRP_0086  
+EN: Over-correcting pH with bicarbonate in DKA increases cerebral edema risk.  
+AR: الإفراط في تصحيح pH بالبيكربونات في DKA يزيد خطر الوذمة الدماغية.
+
+**87) Thyroid Storm** — TRP_0087  
+EN: Do NOT give iodine before blocking synthesis with PTU/methimazole.  
+AR: لا تعطِ اليود قبل حجب تصنيع الهرمون بـ PTU أو الميثيمازول.
+
+**88) Diphtheria** — TRP_0088  
+EN: Look for grayish coat that bleeds when scraped; not simple viral sore throat.  
+AR: ابحث عن غشاء رمادي ينزف عند كشطه؛ ليس مجرد التهاب حلق فيروسي.
+
+**89) Esophageal Food Bolus** — TRP_0089  
+EN: Do NOT use meat tenderizer (papain); it can digest esophageal wall.  
+AR: لا تستخدم منعّم اللحم؛ قد يهضم جدار المريء.
+
+**90) Scorpion and Snake Bite Observation** — TRP_0090  
+EN: Do NOT discharge a child early after scorpion sting; neurotoxicity may be delayed.  
+AR: لا تصرف الطفل مبكرًا بعد لدغة العقرب؛ السمية العصبية قد تتأخر.
+
+**91) Termination of Resuscitation in Hypothermia** — TRP_0091  
+EN: Must be “warm and dead” unless specific TOR criteria are met.  
+AR: لا توقف الإنعاش في انخفاض الحرارة إلا بعد التدفئة أو معايير محددة.
+
+**92) Isopropyl Alcohol Metabolism** — TRP_0092  
+EN: Ketosis does not always mean DKA/alcoholic ketoacidosis; check gap and pH.  
+AR: الكيتوزية ليست دائمًا DKA أو كيتوز كحولي؛ تحقق من الفجوة وpH.
+
+**93) King’s College Criteria** — TRP_0093  
+EN: Do NOT use nomogram for APAP ingestion over 3 days.  
+AR: لا تستخدم م nomogram لجرعة باراسيتامول ممتدة على 3 أيام.
+
+**94) Chronic Digoxin Toxicity** — TRP_0094  
+EN: Acute overdose causes hyperkalemia; chronic toxicity often hypokalemia.  
+AR: الجرعة الحادة تسبب فرط بوتاسيوم، والمزمن غالبًا نقص بوتاسيوم.
+
+**95) Compensated Shock in Children** — TRP_0095  
+EN: Do NOT confuse respiratory distress (lung) with respiratory compensation (shock).  
+AR: لا تخلط الضائقة التنفسية الرئوية بالتعويض التنفسي بسبب الصدمة.
+
+**96) Endotracheal Tube Depth** — TRP_0096  
+EN: Use the 3x rule; “age+16” is not the simpler standard.  
+AR: استخدم قاعدة 3x لعمق الأنبوب الرغامي.
+
+**97) β-hCG Discriminatory Zone** — TRP_0097  
+EN: Traditional 1500–2000 threshold risks methotrexate in viable early pregnancy.  
+AR: عتبة 1500–2000 التقليدية قد تعرّض حملاً مبكرًا حيًا للميثوتريكسات.
+
+**98) Resuscitative Hysterotomy** — TRP_0098  
+EN: Must be performed in the ED, not by transfer to OR.  
+AR: بضع الرحم الإنعاشي يجب أن يتم في الطوارئ لا بنقل لغرفة العمليات.
+
+**99) Radiation Triage Priority** — TRP_0099  
+EN: Do NOT delay cath lab for STEMI because patient triggered a radiation meter.  
+AR: لا تؤخر قسطرة STEMI لأن المريض أطلق عداد إشعاع.
+
+**100) Retinal Detachment POCUS** — TRP_0100  
+EN: Vitreous hemorrhage appears as scattered echoes/swirling smoke, not tethered line.  
+AR: نزف الزجاجية يظهر أصداء منتشرة/دخان دوّام لا خطًا مثبتًا.
+
+**101) Unstable Pelvic Fracture Algorithm** — TRP_0101  
+EN: Positive FAST implies intraperitoneal hemorrhage requiring OR.  
+AR: FAST الموجب يعني نزفًا داخل البريتوان يستلزم غرفة العمليات.
+
+**102) Ureteral Stent Complications** — TRP_0102  
+EN: Microhematuria is common; significant Hgb drop needs imaging for hematoma.  
+AR: البيلة الدموية المجهرية شائعة؛ هبوط Hgb الكبير يستلزم تصويرًا لورم دموي.
+
+**103) Fever in Well-Appearing Infants** — TRP_0103  
+EN: Rochester excludes LP; missed meningitis may be unknown vs Philadelphia.  
+AR: روتشستر لا تشمل البزل القطني؛ قد تفوت التهاب سحايا مقارنة بفيلادلفيا.
+
+**104) Pregnancy-Adapted YEARS Algorithm** — TRP_0104  
+EN: Do NOT apply standard D-dimer cutoff 500 to all pregnant patients.  
+AR: لا تطبّق D-dimer 500 القياسي على كل الحوامل دون بنود سريرية.
+
+**110) Psoas Hematoma in Anticoagulated Patients** — TRP_0110  
+EN: Do NOT mistake retroperitoneal hemorrhage for disc herniation; tachycardia and high INR are clues.  
+AR: لا تخلط النزف خلف البريتوان بالانزلاق الغضروفي؛ تسرع القلب وINR المرتفع قرائن.
+
+**111) Relative Bradycardia in Heterotopic Pregnancy** — TRP_0111  
+EN: Normal heart rate does not rule out massive internal bleeding in pregnancy.  
+AR: النبض الطبيعي لا ينفي نزفًا داخليًا كبيرًا عند الحامل.
+
+**112) Beta-Blocker Risk in SBP** — TRP_0112  
+EN: Continuing beta-blockers during infection in cirrhosis can be harmful.  
+AR: الاستمرار بحاصرات بيتا أثناء العدوى عند التليف الكبدي قد يضر.
+
+**113) Fracture Blisters Management** — TRP_0113  
+EN: Immediate ORIF through active fracture blisters increases infection risk.  
+AR: الجراحة الفورية عبر فقاعات الكسر النشطة تزيد خطر العدوى.
+
+**114) Body Stuffer vs Body Packer** — TRP_0114  
+EN: Endoscopy can rupture drug packets and cause fatal overdose.  
+AR: التنظير قد يمزق حزم المخدرات ويسبب جرعة قاتلة.
+
+**115) Indigenous/Airport Malaria** — TRP_0115  
+EN: No international travel does not rule out malaria; consider baggage handling.  
+AR: عدم السفر لا ينفي الملاريا؛ فكّر في مناولة الأمتعة.
+
+**116) PRES** — TRP_0116  
+EN: Do NOT mistake PRES for ischemic stroke; parieto-occipital distribution is key.  
+AR: لا تخلط PRES بالسكتة؛ التوزيع الجداري القفوي هو المفتاح.
+
+**117) ESETT Trial** — TRP_0117  
+EN: No second-line agent is clearly superior; choose by comorbidity/availability.  
+AR: لا يوجد عامل ثاني واضح الأفضلية؛ اختر حسب الأمراض المتزامنة والتوفر.
+
+**118) Isoniazid Toxicity** — TRP_0118  
+EN: Pyridoxine is the specific and only fully effective antidote.  
+AR: البيريدوكسين هو الترياق النوعي الفعال الوحيد للإيزونيازيد.
+
+**119) Brainstem Stroke and CN III Palsy** — TRP_0119  
+EN: Check contralateral limb weakness to distinguish central from peripheral CN III palsy.  
+AR: افحص ضعف الأطراف المقابلة لتمييز شلل العصب الثالث المركزي من المحيطي.
+
+**120) Gastric Outlet Obstruction** — TRP_0120  
+EN: Ask “time since last meal” to avoid mistaking GOO for gastroenteritis.  
+AR: اسأل عن وقت آخر وجبة لتجنب خلط انسداد المخرج المعدي بالتهاب معوي.
+
+**121) Opioid-Induced Constipation and PAMORAs** — TRP_0121  
+EN: Do NOT decrease chronic opioid dose to treat constipation; use a PAMORA.  
+AR: لا تقلل الأفيون المزمن لعلاج الإمساك؛ استخدم PAMORA.
+
+**122) Chronic Hypernatremia Correction** — TRP_0122  
+EN: Fast correction of hypernatremia causes cerebral edema; fast correction of hyponatremia causes ODS.  
+AR: التصحيح السريع لفرط الصوديوم يسبب وذمة دماغية، ولنقصه يسبب ODS.
+
+**123) Succinylcholine in Acute Burns** — TRP_0123  
+EN: Hyperkalemia risk has not developed at 2 hours after burn.  
+AR: خطر فرط البوتاسيوم لم يتطور بعد ساعتين من الحرق.
+
+**124) Aortic Dissection Sequence** — TRP_0124  
+EN: Give esmolol/labetalol before nicardipine/nitroprusside.  
+AR: أعطِ إسمولول/لابيتالول قبل النيكارديبين أو النيتروبروسيد.
+
+**125) APS and Acute PE** — TRP_0125  
+EN: Warfarin remains preferred for long-term APS thrombosis; DOAC efficacy is lower.  
+AR: الوارفارين مفضل طويلًا في متلازمة الفوسفوليبيد؛ فعالية DOAC أقل.
+
+**126) Testicular Salvage** — TRP_0126  
+EN: Cremasteric reflex does not rule out torsion in high suspicion.  
+AR: وجود منعكس الكريماستر لا ينفي التواء الخصية عند شك عالٍ.
+
+**127) Fibrinolysis in AMI** — TRP_0127  
+EN: Age alone is not a contraindication to fibrinolysis.  
+AR: العمر وحده ليس موانع للتحلل الليفي في احتشاء العضلة القلبية.
+
+**128) Resuscitative Hysterotomy** — TRP_0128  
+EN: Must be performed immediately in the ED, not after transfer to OR.  
+AR: يجب إجراؤه فورًا في الطوارئ لا بعد النقل لغرفة العمليات.
+
+**129) Pacemaker-Mediated Tachycardia** — TRP_0129  
+EN: Magnet is for rate control, not infection; do not order infection workup for dysrhythmia.  
+AR: المغناطيس لضبط المعدل لا للعدوى؛ لا تطلب فحوص عدوى لمجرد اضطراب نظم.
+
+**130) Digoxin-Specific Antibody Fragments** — TRP_0130  
+EN: Do NOT wait for serum digoxin levels in unstable VT; treat clinically.  
+AR: لا تنتظر مستوى الديجوكسين في تسرع بطيني غير مستقر؛ عالج سريريًا.
+
+**131) TTM Physiologic Side Effects** — TRP_0131  
+EN: Do NOT stop cooling or give chronotropes just for HR 40–50 if stable.  
+AR: لا توقف التبريد أو تعطِ مقويات قلب لمجرد نبض 40–50 عند الاستقرار.
+
+**132) Traumatic Diaphragmatic Hernia** — TRP_0132  
+EN: Look for peristalsis/stomach wall; not simple hemothorax.  
+AR: ابحث عن حركة معوية أو جدار معدة؛ ليس مجرد تدمي صدري.
+
+**133) Retrobulbar Hemorrhage** — TRP_0133  
+EN: Do NOT order CT first with vision 20/200 and IOP 50; time is retina.  
+AR: لا تطلب CT أولًا مع رؤية 20/200 وضغط 50؛ الوقت هو الشبكية.
+
+**134) Brugada Syndrome** — TRP_0134  
+EN: Do NOT misdiagnose as STEMI; look for coved morphology in V1–V2.  
+AR: لا تشخصه STEMI؛ ابحث عن شكل الكوفد في V1–V2.
+
+**135) Sepsis-3 and qSOFA** — TRP_0135  
+EN: SIRS is sensitive but not specific for organ dysfunction.  
+AR: SIRS حساس لكنه غير نوعي لخلل الأعضاء في الإنتان.
+
+**136) ACE-Inhibitor Angioedema Mechanism** — TRP_0136  
+EN: If on ACEi, assume bradykinin-mediated and prioritize intubation.  
+AR: إذا كان على ACEi فافترض واسطة براديكينين وأعطِ أولوية للتنبيب.
+
+**137) Benzocaine and Chocolate Brown Blood** — TRP_0137  
+EN: Blue/low saturation not improving with 100% O2 suggests methemoglobinemia.  
+AR: ازرقاق ونقص تشبع لا يتحسن بأكسجين 100% يرجّح الميثيموغلوبين.
+
+**138) Cyanide Poisoning from Nitroprusside** — TRP_0138  
+EN: New metabolic acidosis on nitroprusside may be iatrogenic cyanide toxicity.  
+AR: حماض استقلابي جديد أثناء النيتروبروسيد قد يكون تسمم سيانيد علاجي المنشأ.
+
+**139) Pyloric Stenosis** — TRP_0139  
+EN: Correct metabolic alkalosis before surgery; repair is not an emergency.  
+AR: صحح القلاء الاستقلابي قبل الجراحة؛ الإصلاح ليس إسعافيًا.
+
+**140) Urgent Hemodialysis Indications** — TRP_0140  
+EN: Do NOT wait for a specific BUN/Cr with life-threatening pulmonary edema or hyperkalemia.  
+AR: لا تنتظر رقمًا محددًا لليوريا/الكرياتينين مع وذمة رئوية أو فرط بوتاسيوم مهدد.
+
+**141) Xanthochromia Timing in SAH** — TRP_0141  
+EN: A negative xanthochromia at 2 hours does not rule out SAH.  
+AR: زانثوكروميا سلبية بعد ساعتين لا تنفي النزف تحت العنكبوتية.
+
+**142) Rigid Chest Syndrome from Fentanyl** — TRP_0142  
+EN: Naloxone may help, but paralysis is often needed to ventilate.  
+AR: النالوكسون قد يساعد، لكن الشلل العضلي غالبًا ضروري للتهوية.
+
+**143) Epoprostenol (Flolan) Management** — TRP_0143  
+EN: Establish a backup line before imaging/calling specialist when Flolan pump beeps.  
+AR: أمّن خطًا بديلًا قبل التصوير/الاتصال بالاختصاصي عند صفير مضخة Flolan.
+
+**144) High-Flow Nasal Oxygen vs NRB** — TRP_0144  
+EN: A standard 15L NRB does NOT provide nearly 100% FiO2 due to air leak.  
+AR: قناع NRB 15 لتر لا يعطي 100% أكسجين بسبب تسرب الهواء.
+
+**145) Pediatric Jet Ventilation Pressures** — TRP_0145  
+EN: Adult wall pressure 50 psi in an infant causes barotrauma/tension pneumothorax.  
+AR: ضغط الجدار 50 psi عند الرضيع يسبب رضحًا ضغطيًا/ريحًا صدريًا توترى.
+
+**146) Philadelphia Criteria for Febrile Infants** — TRP_0146  
+EN: Rochester excludes LP and may miss meningitis compared with Philadelphia.  
+AR: روتشستر تستبعد البزل القطني وقد تفوت التهاب السحايا مقارنة بفيلادلفيا.
+
+**147) STEMI in Post-Arrest Comatose Patients** — TRP_0147  
+EN: Do NOT delay cath lab because patient is not neurologically intact.  
+AR: لا تؤخر القسطرة لأن المريض غير واعٍ بعد الإنعاش.
+
+**148) Post-MI Papillary Muscle Rupture** — TRP_0148  
+EN: Fluid bolus worsens cardiogenic shock/pulmonary edema.  
+AR: البلعة السائلة تفاقم الصدمة القلبية والوذمة الرئوية.
+
+**149) Cyanide Toxicity from Nitroprusside** — TRP_0149  
+EN: Consider iatrogenic cyanide in lactic acidosis on nitroprusside.  
+AR: فكّر بتسمم السيانيد العلاجي في حماض لاكتيكي أثناء النيتروبروسيد.
+
+**150) TXA Timing in Trauma** — TRP_0150  
+EN: TXA at 4 hours after injury is harmful per CRASH-2.  
+AR: إعطاء TXA بعد 4 ساعات من الرضح ضار وفق CRASH-2.
+
+**151) Open Fracture Antibiotics** — TRP_0151  
+EN: Farm/soil crush injury needs penicillin added to cefazolin for gas gangrene.  
+AR: رضح سحق ملوث بالتربة يحتاج بنسلين مع سيفازولين لوقاية الغرغرينا الغازية.
+
+**152) ABI Triage** — TRP_0152  
+EN: GSW with ABI 0.92 still needs 12–24 h observation for evolving injury.  
+AR: جرح ناري مع ABI 0.92 يستلزم مراقبة 12–24 ساعة لتطور الإصابة.
+
+**153) BRUE** — TRP_0153  
+EN: Low-risk BRUE does NOT need full sepsis workup or head CT.  
+AR: BRUE منخفض الخطورة لا يحتاج فحوص إنتان كاملة أو CT رأس.
+
+**154) Newborn Conjunctivitis Timing** — TRP_0154  
+EN: 4-day-old with purulent discharge needs admission/IV meds for gonorrhea risk.  
+AR: رضيع 4 أيام بإفراز قيحي يحتاج تنويمًا ومضادات وريدية لخطر السيلان.
+
+**155) Kawasaki Disease** — TRP_0155  
+EN: Do NOT wait for peeling; it is a late sign (day 10+).  
+AR: لا تنتظر تقشر الجلد؛ فهو علامة متأخرة بعد اليوم 10.
+
+**156) Naloxone vs Long-Acting Opioids** — TRP_0156  
+EN: Do NOT discharge 30 min after naloxone; drug wears off and respiratory depression returns.  
+AR: لا تصرف بعد 30 دقيقة من النالوكسون؛ يزول مفعوله وتعود كبت التنفس.
+
+**157) Atropine Endpoint in Organophosphates** — TRP_0157  
+EN: Mydriasis/tachycardia are unreliable; bronchial drying is the safe endpoint.  
+AR: اتساع الحدقة/تسرع القلب غير موثوقين؛ جفاف الشعب هو نقطة النهاية الآمنة.
+
+**158) HACE vs AMS and HAPE** — TRP_0158  
+EN: HACE with ataxia means brain swelling; immediate descent is mandatory.  
+AR: HACE مع رنح يعني تورم الدماغ؛ النزول الفوري إلزامي.
+
+**159) Nikolsky Sign in Bullous Disorders** — TRP_0159  
+EN: Negative Nikolsky does not rule out all blistering disease; helps BP vs PV.  
+AR: نيكولسكي السلبية لا تنفي كل الفقاعات؛ تساعد في تمييز الفقاع الشوهي من الفقاع القشوري.
+
+**160) DRESS Syndrome** — TRP_0160  
+EN: Look for internal organ involvement and drug history; not simple viral exanthem.  
+AR: ابحث عن إصابة أعضاء داخلية وتاريخ دوائي؛ ليس طفحًا فيروسيًا بسيطًا.
+
+**161) Suicide Risk (SAD PERSONS)** — TRP_0161  
+EN: First month post-hospitalization is highest risk; calm appearance can mislead.  
+AR: الشهر الأول بعد الخروج من المستشفى هو الأعلى خطرًا؛ الهدوء الظاهري مضلل.
+
+**162) Bulimia Nervosa** — TRP_0162  
+EN: Normal BMI does not exclude bulimia; many are normal/overweight.  
+AR: الوزن الطبيعي لا ينفي الشره المرضي؛ كثيرون طبيعيون أو زائدو الوزن.
+
+**163) Forensic Evidence Timing** — TRP_0163  
+EN: Even >72 h after assault, document injuries thoroughly; kit may not be indicated.  
+AR: بعد 72 ساعة من الاعتداء وثّق الإصابات جيدًا؛ قد لا تكون الحزمة ضرورية.
+
+**164) Tacrolimus and Macrolide Interaction** — TRP_0164  
+EN: Azithromycin can raise tacrolimus; monitor levels.  
+AR: الأزيثرومايسين قد يرفع تاكروليمس؛ راقب المستويات.
+
+**165) Empty Gestational Sac** — TRP_0165  
+EN: Empty sac without yolk sac is not confirmed IUP; could be decoy sac.  
+AR: كيس فارغ بلا كيس محي ليس حملاً داخل رحمي مؤكدًا؛ قد يكون كيسًا خادعًا.
+
+**166) A-lines in Lung Ultrasound** — TRP_0166  
+EN: A-lines are horizontal/normal; B-lines are vertical/edema.  
+AR: خطوط A أفقية/طبيعية، وخطوط B عمودية/وذمة.
+
+**167) Cervical Spine Clearance (NEXUS)** — TRP_0167  
+EN: A distracting injury prevents reliable c-spine clearance even without neck pain.  
+AR: الإصابة المشتتة تمنع تطهير الرقبة حتى دون ألم رقبة.
+
+**168) SCFE** — TRP_0168  
+EN: Limping child with knee pain needs hip imaging if knee X-ray is negative.  
+AR: الطفل العرج مع ألم ركبة يحتاج تصوير الورك إذا كانت أشعة الركبة سلبية.
+
+**169) Plantar Fasciitis** — TRP_0169  
+EN: Heel spurs are incidental and do not correlate with severity.  
+AR: نتوء الكعب غالبًا صدفة ولا يرتبط بشدة التهاب اللفافة الأخمصية.
+
+**170) Post-obstructive Diuresis** — TRP_0170  
+EN: Do NOT discharge elderly BPH immediately after Foley; massive diuresis/collapse may occur.  
+AR: لا تصرف مسنًا مع تضخم بروستاتا فورًا بعد القسطرة؛ قد يحدث إدرار هائل وانهيار.
+
+**171) Ebola Virus Disease Triage** — TRP_0171  
+EN: Establish strict isolation before standard infectious workup.  
+AR: أمّن العزل الصارم قبل فحوص الأمراض المعدية التقليدية في Ebola.
+
+**172) Puerperal Mastitis** — TRP_0172  
+EN: Do NOT advise stopping breastfeeding; continued emptying is critical.  
+AR: لا تنصح بإيقاف الرضاعة؛ استمرار التفريغ ضروري.
+
+**173) Mass Casualty Triage** — TRP_0173  
+EN: Day-to-day triage differs from MCI triage.  
+AR: فرز الكوارث الجماعية يختلف عن الفرز اليومي.
+
+**175) Septic Shock Resuscitation** — TRP_0175  
+EN: Avoid dopamine as first-line when norepinephrine is available.  
+AR: تجنّب الدوبامين كخط أول عند توفر النورإبينفرين.
+
+**176) End-Tidal Capnography** — TRP_0176  
+EN: Sudden sustained rise in ETCO2 may indicate ROSC.  
+AR: الارتفاع المفاجئ المستمر في ETCO2 قد يعني عودة الدورة (ROSC).
+
+**177) Trauma-Induced Coagulopathy and MTP** — TRP_0177  
+EN: Over-resuscitation with crystalloid worsens coagulopathy.  
+AR: الإفراط في البلورات يزيد اعتلال التخثر الرضحي.
+
+**178) Local Anesthetic Systemic Toxicity** — TRP_0178  
+EN: Avoid vasopressin and high-dose epinephrine in LAST arrest.  
+AR: تجنّب الفازوبريسين والإبينفرين عالي الجرعة في توقف القلب بسبب LAST.
+
+**179) Ketamine in Procedural Sedation** — TRP_0179  
+EN: Match dosing to analgesia vs dissociation goal.  
+AR: اضبط جرعة الكيتامين حسب هدف التسكين أو الانفصال.
+
+**180) Wound Closure: Staples** — TRP_0180  
+EN: Avoid staples where cosmetic precision matters, such as the face.  
+AR: تجنّب الدبابيس حيث يهم الشكل التجميلي مثل الوجه.
+
+**181) Eyelid Lacerations** — TRP_0181  
+EN: Visible orbital fat or medial canthus injury needs specialist repair.  
+AR: ظهور دهن الحجاج أو إصابة الزاوية الإنسية يستلزم إصلاحًا اختصاصيًا.
+
+**182) Cocaine-Induced Myocardial Ischemia** — TRP_0182  
+EN: Avoid beta-blockers in cocaine chest pain by board convention.  
+AR: تجنّب حاصرات بيتا في ألم صدر الكوكايين وفق التقليد الامتحاني.
+
+**183) Cardiac Tamponade** — TRP_0183  
+EN: Pericardiocentesis is for unstable tamponade, not stable effusion.  
+AR: بزل التامور للدكاك غير المستقر لا للانصباب المستقر.
+
+**184) Spontaneous Pneumothorax** — TRP_0184  
+EN: Observation applies to selected primary PTX, not secondary PTX.  
+AR: المراقبة لبعض الريح الصدري الأولي وليس الثانوي.
+
+**185) Upper GI Bleed** — TRP_0185  
+EN: Do NOT delay PPI while awaiting endoscopy in ulcer-related UGIB.  
+AR: لا تؤخر مثبطات مضخة البروتون بانتظار التنظير في نزف القرحة.
+
+**187) Fournier’s Gangrene** — TRP_0187  
+EN: Do NOT delay surgery for CT if clinical suspicion is high.  
+AR: لا تؤخر الجراحة لأجل CT عند شك سريري عالٍ.
+
+**188) Dialysis Complications** — TRP_0188  
+EN: Check glucose; hypotension may mask hypoglycemia in diabetic dialysis patients.  
+AR: افحص السكر؛ قد يخفي انخفاض الضغط نقص السكر عند مريض الغسيل.
+
+**189) Ectopic Pregnancy and Infertility** — TRP_0189  
+EN: IUP does not rule out ectopic in assisted reproduction.  
+AR: وجود حمل داخل رحمي لا ينفي الحمل خارج الرحم في الإنجاب المساعد.
+
+**190) PROM** — TRP_0190  
+EN: Avoid routine digital pelvic exam in suspected PROM.  
+AR: تجنّب الفحص المهبلي الرقمي الروتيني عند شك تمزق الأغشية.
+
+**191) Intussusception** — TRP_0191  
+EN: Do NOT wait for currant jelly stools; it is a late sign.  
+AR: لا تنتظر براز الهلام الأحمر؛ فهو علامة متأخرة.
+
+**193) Triage Bias and Errors** — TRP_0193  
+EN: Clinician must reassess triage momentum.  
+AR: يجب على الطبيب إعادة تقييم اندفاع الفرز الأولي.
+
+**194) Irradiation vs Contamination Triage** — TRP_0194  
+EN: Treat life threats before decontamination.  
+AR: عالج التهديدات الحياتية قبل التطهير من التلوث.
+
+**199) TTM Bradycardia** — TRP_0199  
+EN: Do NOT treat post-TTM bradycardia if blood pressure is stable.  
+AR: لا تعالج بطء القلب بعد TTM إذا كان الضغط مستقرًا.
+
+**202) Eclampsia Postpartum** — TRP_0202  
+EN: Eclampsia can occur up to 8 weeks postpartum.  
+AR: الإرجاج قد يحدث حتى 8 أسابيع بعد الولادة.
+
+**207) APAP Toxicity** — TRP_0207  
+EN: Do NOT use nomogram for chronic ingestion over multiple days.  
+AR: لا تستخدم nomogram للجرعة المزمنة على مدى عدة أيام.
+
+**209) Testicular Torsion** — TRP_0209  
+EN: Normal Doppler flow does not rule out torsion; dual supply may preserve flow early.  
+AR: دوبلر طبيعي لا ينفي التواء الخصية؛ التغذية المزدوجة قد تحفظ التدفق مبكرًا.
+
+**210) Digoxin Toxicity** — TRP_0210  
+EN: Do NOT wait for serum levels in unstable VT/VF or severe hyperkalemia.  
+AR: لا تنتظر مستوى الديجوكسين في VT/VF غير مستقر أو فرط بوتاسيوم شديد.
+
+**211) Hypernatremia Correction** — TRP_0211  
+EN: Fast Na drop = brain swelling; fast Na rise = ODS.  
+AR: هبوط الصوديوم السريع = وذمة دماغية؛ ارتفاعه السريع = ODS.
+
+**219) Heterotopic Pregnancy** — TRP_0219  
+EN: IUP on POCUS does not rule out ectopic in ART patients.  
+AR: رؤية حمل داخل رحمي لا تنفي خارج الرحم عند مرضى الإنجاب المساعد.
+
